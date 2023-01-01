@@ -1,0 +1,21 @@
+20
+Karachi 67.01 24.86
+Lahore 74.3436 31.5497
+Faisalabad 73.079 31.418
+Rawalpindi 73.0679 33.6007
+Gujranwala 74.1833 32.15
+Peshawar 71.5 34
+Multan 71.4711 30.1978
+SaiduSharif 72.3572 34.75
+HyderabadCity 68.3683 25.3792
+Islamabad 73.0369 33.6989
+Quetta 67.007 30.192
+Bahawalpur 71.6722 29.3956
+Sargodha 72.6711 32.0836
+SialkotCity 74.5333 32.5
+Sukkur 68.8673 27.6995
+Larkana 68.2264 27.56
+Chiniot 72.9833 31.7167
+Shekhupura 74 31.7083
+JhangCity 72.3181 31.2681
+DeraGhaziKhan 70.6333 30.05
