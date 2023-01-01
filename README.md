@@ -2,7 +2,7 @@
 
 #### Course : Data Structures & Algorithms (CS221 Lab)
 #### University : Ghulam Ishaq Khan Institute
-#### Instructor : Sir Usama Janjua
+#### Instructor : Sir Usama Arshad
 #### Group : Mujtaba Omar (2021495), Syed Basim Mehmood (2021613), Ali Naufil (2021083)
 ## A Railway Company
 
